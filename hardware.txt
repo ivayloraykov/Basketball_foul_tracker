@@ -1,0 +1,6 @@
+LED light
+Leg + -> signal wire
+Leg - + wire GND + resistor leg -> resistor leg  + signal wire
+
+Button
+Leg button + GND ware -> Leg button + resistor leg -> + resistor leg + 5V
